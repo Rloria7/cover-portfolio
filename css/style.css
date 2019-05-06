@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body{
+margin: 0;
+padding: 0;
+}
+.container-fluid1{
+padding-top: 200px;
+padding-bottom: 200px;
+}
+.container-fluid2{
+padding-top: 80px;
+padding-bottom: 100px;
+}
+.container-fluid3{
+
+}
+.texto h1 h2{
+padding-top: 20px;
+}
+.user   .centro p{
+text-align: justify;
+}
+
+
+
+.cover{
+background-image: url(../imagenes/cover.jpeg);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+.cover h1{
+font-family: 'Anton', sans-serif;
+text-shadow: 5px 8px 5px #000;
+}
+.cover h2{
+text-shadow: 5px 8px 5px #000;
+}
+.user{
+height: 250px;
+background: #041b35;
+color: aliceblue;
+}
+.user h3 p{
+padding-top: 15px;
+padding-bottom: 10px;
+}
+footer{
+background-color: #b8bcbe;
+padding-top: 10px;
+padding-bottom: 10px;
+}
